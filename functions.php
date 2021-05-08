@@ -12,6 +12,7 @@ function esports_files() {
     wp_enqueue_style('bootstrap', get_template_directory_uri() . '/css/bootstrap.min.css');
     wp_enqueue_style('ticker_css', get_stylesheet_uri('/ticker-style.css'));
     wp_enqueue_style('style_less', get_template_directory_uri() . '/less/style.less');
+    wp_enqueue_style('variables_less', get_template_directory_uri() . '/less/variables.less');
 
 }
 

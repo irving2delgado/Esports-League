@@ -50,9 +50,7 @@
 /*-------------------------------------------------------*/
 /* 1. Isotope filtering
 /*-------------------------------------------------------*/
-
-
-
+clear
 .isotope-item {
     z-index: 2;
   }
@@ -154,6 +152,7 @@
     max-width: 468px;
   }
   .top-line {
+    margin-top: 0;
     padding: 7px 0 9px;
     background: #111111;
     transition: all 0.2s ease-in-out;
