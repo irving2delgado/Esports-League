@@ -134,7 +134,7 @@ clear
     left: 0;
   }
   .navbar-default {
-    background: url('../images/pattern2.png');
+    background: url('images/pattern2.png');
     border: none;
     transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;

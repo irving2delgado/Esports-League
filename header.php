@@ -71,7 +71,7 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""></a>
+							<a class="navbar-brand" href="index.html"><img src="<?php echo get_theme_file_uri('images/logo.png') ?>" alt=""></a>
 						</div>
 
 						<div class="advertisement">
