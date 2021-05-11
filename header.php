@@ -95,7 +95,7 @@
 
 								<li><a class="active" href="<?php echo site_url() ?>">Home</a></li>
 								<li><a href="game-category.html">News</a></li>
-								<li class="drop-arrow"><a href="game-category.html">Reviews</a>
+								<!-- <li class="drop-arrow"><a href="game-category.html">Reviews</a>
 									<div class="megadropdown">
 										<div class="container">
 											<div class="inner-megadropdown">
@@ -189,7 +189,7 @@
 											</div>
 										</div>
 									</div>
-								</li>
+								</li> -->
 								<li><a href="game-category.html">CS: GO</a></li>
 								<li><a href="game-category.html">League of Legends</a></li>
 								<li class="drop-arrow"><a href="game-category.html">Call of Duty: Modern Warfare</a>
@@ -289,8 +289,8 @@
 								</li>
 								<li><a href="game-category.html">Fortnite</a></li>
 								<li><a href="game-category.html">Rocket League</a></li>
-								<li><a href="game-category.html">Mobile Gaming</a></li>
-								<!-- <li class="drop-arrow drop"><a href="games-category.html">More</a>
+								<!-- <li><a href="game-category.html">Mobile Gaming</a></li>
+								<li class="drop-arrow drop"><a href="games-category.html">More</a>
 									<ul class="dropdown">
 										<li><a href="game-category.html">Nintendo</a></li>
 										<li><a href="game-category.html">App Games</a></li>
