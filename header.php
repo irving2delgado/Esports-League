@@ -93,7 +93,7 @@
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-left">
 
-								<li><a class="active" href="index.html">Home</a></li>
+								<li><a class="active" href="<?php echo site_url() ?>">Home</a></li>
 								<li><a href="game-category.html">News</a></li>
 								<li class="drop-arrow"><a href="game-category.html">Reviews</a>
 									<div class="megadropdown">
